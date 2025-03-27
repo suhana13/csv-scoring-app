@@ -1,0 +1,11 @@
+id,name,email,age,location,category
+1,John Smith,john.smith@example.com,34,New York,Category A
+2,Sarah Johnson,sarah.j@example.com,28,Los Angeles,Category B
+3,Michael Wong,m.wong@example.com,42,Chicago,Category A
+4,Emma Davis,e.davis@example.com,31,Houston,Category C
+5,Robert Brown,r.brown@example.com,39,Miami,Category B
+6,Lisa Garcia,l.garcia@example.com,26,Seattle,Category A
+7,David Lee,d.lee@example.com,45,Boston,Category C
+8,Jennifer Wilson,j.wilson@example.com,33,Denver,Category B
+9,James Martin,j.martin@example.com,37,Atlanta,Category A
+10,Patricia Moore,p.moore@example.com,29,San Francisco,Category C
